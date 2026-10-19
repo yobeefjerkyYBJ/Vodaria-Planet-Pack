@@ -3,51 +3,49 @@
 
 **-=Hard Requirements=-**
 
-Modulemanager
+  Modulemanager
 
-Kopernicus
+  Kopernicus
 
-KopernicusExpansion
+  KopernicusExpansion
 
-Scatterer
+  Scatterer
 
-Volumetric Clouds v5 + EnvironmentalVisualEnhancements
+  Volumetric Clouds v5 + EnvironmentalVisualEnhancements
 
-CommunityTerrainTexturePack
+  CommunityTerrainTexturePack
 
-MitchellNetravali PQS
+  MitchellNetravali PQS
 
-KSP Community Fixes
+  KSP Community Fixes
 
 
 
 _-=Compatible Mods=-_
 
-DistantObjectEnhancement
+  DistantObjectEnhancement
 
-Kronometer
+  Kronometer
 
-Kerbalism
+  Kerbalism
 
-Principia
+  Principia
 
-Firefly
+  Firefly
 
-Parallax
+  Parallax
 
 
-_-=File Size=-_
-3.05GB // 980MB Compressed
+_-=Information=-_
+  3.05GB // 980MB Compressed
 
-Important Notice
-
-This pack lacks parallax support beyond Vodaria (and even that is limited), it also currently still has the old jungle Kalatl, which will be replaced with a more marslike planet in the future.
+  This pack lacks parallax support beyond Vodaria (and even that is limited), it also currently still has the old jungle Kalatl, which will be replaced with a more marslike planet in the future.
 
 _-=Known Issues=-_
-Thalia's oceans are white
+  Thalia's oceans are white
 
-Planet surfaces sometimes z-fight
+  Planet surfaces sometimes z-fight
 
-Kronometer config not entirely precise with the year turnover
+  Kronometer config not entirely precise with the year turnover
 
-A number of the hard requirements have dependencies of their own, use CKAN for those, this mod is NOT compatible with Parallax 2, and will break.
+  A number of the hard requirements have dependencies of their own, use CKAN for those, this mod is NOT compatible with Parallax 2, and will break.
