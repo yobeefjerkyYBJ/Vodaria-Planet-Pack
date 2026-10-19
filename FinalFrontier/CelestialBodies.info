@@ -1,0 +1,220 @@
+Rulileah
+{
+  type = planet
+  FinalFrontier
+  {
+     ribbon path = VPP/FinalFrontier/Ribbons
+     ribbon group = Rulileah
+  }
+}
+
+Azuno
+{
+  type = planet
+  FinalFrontier
+  {
+     ribbon path = VPP/FinalFrontier/Ribbons
+     ribbon group = Azuno
+  }
+}
+
+Kalatl
+{
+  type = planet
+  FinalFrontier
+  {
+     ribbon path = VPP/FinalFrontier/Ribbons
+     ribbon group = Kalatl
+  }
+}
+
+Tyrinnus
+{
+  type = gas giant
+  FinalFrontier
+  {
+     ribbon path = VPP/FinalFrontier/Ribbons
+     ribbon group = Tyrinnus
+  }
+}
+
+Ososie
+{
+  type = gas giant
+  FinalFrontier
+  {
+     ribbon path = VPP/FinalFrontier/Ribbons
+     ribbon group = Ososie
+  }
+}
+
+Sozarena
+{
+  type = gas giant
+  FinalFrontier
+  {
+     ribbon path = VPP/FinalFrontier/Ribbons
+     ribbon group = Sozarena
+  }
+}
+
+
+Meza
+{
+  type = moon
+  FinalFrontier
+  {
+     ribbon path = VPP/FinalFrontier/Ribbons
+     ribbon group = Meza
+  }
+}
+
+Pereus
+{
+  type = moon
+  FinalFrontier
+  {
+     ribbon path = VPP/FinalFrontier/Ribbons
+     ribbon group = Pereus
+  }
+}
+
+Ullr
+{
+  type = moon
+  FinalFrontier
+  {
+     ribbon path = VPP/FinalFrontier/Ribbons
+     ribbon group = Ullr
+  }
+}
+
+Tena
+{
+  type = moon
+  FinalFrontier
+  {
+     ribbon path = VPP/FinalFrontier/Ribbons
+     ribbon group = Tena
+  }
+}
+
+Terrace
+{
+  type = moon
+  FinalFrontier
+  {
+     ribbon path = VPP/FinalFrontier/Ribbons
+     ribbon group = Generic
+  }
+}
+
+Denay
+{
+  type = moon
+  FinalFrontier
+  {
+     ribbon path = VPP/FinalFrontier/Ribbons
+     ribbon group = Generic
+  }
+}
+
+Vyden
+{
+  type = moon
+  FinalFrontier
+  {
+     ribbon path = VPP/FinalFrontier/Ribbons
+     ribbon group = Generic
+  }
+}
+
+Myril
+{
+  type = moon
+  FinalFrontier
+  {
+     ribbon path = VPP/FinalFrontier/Ribbons
+     ribbon group = Generic
+  }
+}
+
+Thalia
+{
+  type = moon
+  FinalFrontier
+  {
+     ribbon path = VPP/FinalFrontier/Ribbons
+     ribbon group = Generic
+  }
+}
+
+Ozaru
+{
+  type = moon
+  FinalFrontier
+  {
+     ribbon path = VPP/FinalFrontier/Ribbons
+     ribbon group = Generic
+  }
+}
+
+Hikall
+{
+  type = moon
+  FinalFrontier
+  {
+     ribbon path = VPP/FinalFrontier/Ribbons
+     ribbon group = Generic
+  }
+}
+
+Haalin
+{
+  type = moon
+  FinalFrontier
+  {
+     ribbon path = VPP/FinalFrontier/Ribbons
+     ribbon group = Generic
+  }
+}
+
+Ragum
+{
+  type = moon
+  FinalFrontier
+  {
+     ribbon path = VPP/FinalFrontier/Ribbons
+     ribbon group = Generic
+  }
+}
+
+Aniki
+{
+  type = moon
+  FinalFrontier
+  {
+     ribbon path = VPP/FinalFrontier/Ribbons
+     ribbon group = Generic
+  }
+}
+
+Leone
+{
+  type = moon
+  FinalFrontier
+  {
+     ribbon path = VPP/FinalFrontier/Ribbons
+     ribbon group = Generic
+  }
+}
+
+Kanaha
+{
+  type = moon
+  FinalFrontier
+  {
+     ribbon path = VPP/FinalFrontier/Ribbons
+     ribbon group = Generic
+  }
+}
