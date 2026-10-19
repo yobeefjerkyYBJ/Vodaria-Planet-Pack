@@ -1,6 +1,8 @@
 # Vodaria-Planet-Pack
 
--Hard Requirements-
+
+**-=Hard Requirements=-**
+
 Modulemanager
 Kopernicus
 KopernicusExpansion
@@ -10,7 +12,9 @@ CommunityTerrainTexturePack
 MitchellNetravali PQS
 KSP Community Fixes
 
--Compatible Mods-
+
+_-=Compatible Mods=-_
+
 DistantObjectEnhancement
 Kronometer
 Kerbalism
@@ -18,12 +22,13 @@ Principia
 Firefly
 Parallax
 
--File Size-
+
+_-=File Size=-_
 3.05GB // 980MB Compressed
 Important Notice
 This pack lacks parallax support beyond Vodaria (and even that is limited), it also currently still has the old jungle Kalatl, which will be replaced with a more marslike planet in the future.
 
-Known Issues:
+_-=Known Issues=-_
 Thalia's oceans are white
 Planet surfaces sometimes z-fight
 Kronometer config not entirely precise with the year turnover
