@@ -66,8 +66,6 @@ This is an early stage planet pack that replaces the entire stock system with th
 
   Scatterer
 
-  Volumetric Clouds v5 + EnvironmentalVisualEnhancements
-
   CommunityTerrainTexturePack
 
   MitchellNetravali PQS
@@ -78,13 +76,15 @@ This is an early stage planet pack that replaces the entire stock system with th
 
 _-=Compatible Mods=-_
 
+  Volumetric Clouds v5 + EnvironmentalVisualEnhancements
+
   DistantObjectEnhancement
 
   Kronometer
 
   Kerbalism
 
-  Principia
+  Principia (Tested out to 2,000 years)
 
   Firefly
 
