@@ -1,5 +1,7 @@
 # Vodaria-Planet-Pack
 
+This pack is the combined work of about two years of back and forth between KAL_9000 and I, without him, this wouldn't have ever come to fruition.
+
 
 **-=Hard Requirements=-**
 
